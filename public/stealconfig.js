@@ -37,7 +37,8 @@
 			'theme/*': 'bower_components/jquery-ui/themes/base/jquery.ui.*css',
 			'ui/*': 'bower_components/jquery-ui/ui/jquery.ui.*.js',
 			'bootstrap' : 'bower_components/bootstrap/dist/js/bootstrap.js',
-			'bootstrap.css' : 'bower_components/bootstrap/dist/css/bootstrap.csscss'
+			'bootstrap.css' : 'bower_components/bootstrap/dist/css/bootstrap.csscss',
+			'feathers' : 'bower_components/canjs-feathers/lib/feathers.js'
 		},
 		meta: {
 			jquery: {

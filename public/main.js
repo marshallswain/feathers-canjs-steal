@@ -5,7 +5,10 @@ import $ from 'jquery';
 import Session from 'models/session';
 import siteStache from 'site.stache!';
 import def from 'can/map/define/';
-import 'can/feathers';
+
+// WHAT IS THE PROPER WAY TO BRING THIS IN?
+import feathers from 'feathers';
+can.Feathers = feathers;
 
 // Defines the state of the application
 var AppState = can.Map.extend({
