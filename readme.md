@@ -1,4 +1,4 @@
-### Feathers server with Steal and CanJS on the client
+## Feathers server with Steal and CanJS on the client
 
 ### Setup
 1. In the root directory run npm install.
